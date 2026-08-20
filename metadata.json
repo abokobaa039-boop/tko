@@ -1,0 +1,6 @@
+{
+  "name": "الكارطة",
+  "description": "تطبيق لعبة أوراق الكارطة والشكبة اونلاين مع نظام اشتراكات ولوحة تحكم متكاملة",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
